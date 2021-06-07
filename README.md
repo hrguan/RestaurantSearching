@@ -1,6 +1,5 @@
 # RestaurantSearching
-![Home](https://res.cloudinary.com/dql5gkbx4/image/upload/v1623106789/home_hklxdr.png)
-![Detail](https://res.cloudinary.com/dql5gkbx4/image/upload/v1623106789/details_dnln1t.png)
+![Detail](https://res.cloudinary.com/dql5gkbx4/image/upload/v1623108872/WechatIMG125_gmml2w.jpg)
 
 RestaurantSearching is an app where users can search restaurant by categories. This project was part of Stephen Grider's React Native course on Udemy.
 
